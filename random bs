@@ -1,0 +1,6 @@
+# Inspired by some shenanigans, done in python. Written by Alan
+
+# variables
+name = str.capitalize(input("Enter your name: ")
+country = str.capitalize(input("Enter your country: ")
+state = str.capitalize(input("Enter your state/province: ")

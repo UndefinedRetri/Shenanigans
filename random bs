@@ -1,6 +1,13 @@
 # Inspired by some shenanigans, done in python. Written by Alan
+import time
 
-# variables
+# functions
+def intro():
+  text_intro = "Welcome to Alan's funny random shenanigans! A few prompts will appear shortly. Please answer them will full honesty!"
+  print(text_intro)
+
+
+# main program
 name = str.capitalize(input("Enter your name: ")
 country = str.capitalize(input("Enter your country: ")
 state = str.capitalize(input("Enter your state/province: ")
